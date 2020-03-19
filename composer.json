@@ -1,0 +1,19 @@
+{
+    "name": "asethon/torrent-rw",
+    "description": "Torrent read-write",
+    "type": "composer-plugin",
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Muslim Magamadov",
+            "email": "vlp.tiberium@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
